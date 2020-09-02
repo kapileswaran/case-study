@@ -1,2 +1,1 @@
-# case-study
-Card deck and play app
+# React Playing Cards
